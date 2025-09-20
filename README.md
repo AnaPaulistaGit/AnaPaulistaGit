@@ -22,9 +22,8 @@
 
 ## Certificaçao:
 <div align="center">
-    <a href=https://learn.microsoft.com/api/credentials/share/en-us/AnaClaudiaCarvalho-0514/3748B0BFBB19AA6B?sharingId=D2EEAA216B6BA96B>
-   Microsoft Certified: Azure AI Fundamentals
-   Microsoft Certified: Azure Data Fundamentals
+    <a href=https://learn.microsoft.com/api/credentials/share/en-us/AnaClaudiaCarvalho-0514/3748B0BFBB19AA6B?sharingId=D2EEAA216B6BA96B>   
+     <a href=https://learn.microsoft.com/api/credentials/share/en-us/AnaClaudiaCarvalho-0514/D5EF9976ADA55EEC?sharingId=D2EEAA216B6BA96B>   
 </div>
   
 ## Contato:
