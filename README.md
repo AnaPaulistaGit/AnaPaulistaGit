@@ -2,7 +2,7 @@
 
 ## Sou a Ana Carvalho, profissional de dados.
 
-<div align="center">
+<div>
   <a href="https://github.com/anapaulistagit">   
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPaulistaGit&layout=compact&langs_count=7&theme=dracula"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaPaulistaGit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
 
 ## 💻 Tecnologias:
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PL_SQL-0769AD?style=for-the-badge&logo=PL_SQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -21,7 +21,7 @@
 </div>
 
 ## Certificaçao:
-<div align="center">
+<div>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnaClaudiaCarvalho-0514/3748B0BFBB19AA6B?sharingId=D2EEAA216B6BA96B"> Microsoft Certified: Azure AI Fundamentals 
   </a> 
   <br>
